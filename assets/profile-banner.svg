@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="420" viewBox="0 0 1500 420" role="img" aria-labelledby="title desc">
+  <title id="title">Confidence Anti — Build, Learn, Engineer</title>
+  <desc id="desc">A minimalist charcoal and emerald banner for an aspiring software engineer, with abstract mountain forms and code-inspired geometry.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080d0c"/>
+      <stop offset=".55" stop-color="#101b19"/>
+      <stop offset="1" stop-color="#07110f"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#10b981" stop-opacity="0"/>
+      <stop offset=".55" stop-color="#10b981" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#34d399" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#34d399"/>
+      <stop offset="1" stop-color="#a7f3d0"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop offset="0" stop-color="#10b981" stop-opacity=".25"/>
+      <stop offset="1" stop-color="#10b981" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1500" height="420" fill="url(#bg)"/>
+  <ellipse cx="1120" cy="210" rx="470" ry="270" fill="url(#halo)"/>
+  <path d="M0 315 180 235 310 290 485 160 635 285 790 205 965 300 1120 170 1290 285 1500 210V420H0Z" fill="#0b1714"/>
+  <path d="M0 345 190 285 350 330 525 220 685 335 850 265 1015 340 1190 245 1370 330 1500 290V420H0Z" fill="#10231d" opacity=".85"/>
+  <path d="M0 365 220 325 390 355 560 285 730 360 900 315 1080 365 1260 300 1500 350V420H0Z" fill="#163329" opacity=".55"/>
+  <path d="M0 348H1500" stroke="url(#glow)" stroke-width="2"/>
+  <g opacity=".22" stroke="#6ee7b7" fill="none">
+    <path d="M1050 70h300M1050 86h210M1050 102h250"/>
+    <path d="M1280 55v110M1296 55v70M1312 55v90"/>
+  </g>
+  <g transform="translate(1150 110)" opacity=".92">
+    <circle cx="105" cy="90" r="115" fill="none" stroke="#34d399" stroke-opacity=".18" stroke-width="1.5"/>
+    <circle cx="105" cy="90" r="82" fill="none" stroke="#34d399" stroke-opacity=".28" stroke-dasharray="4 10"/>
+    <path d="M45 90 80 55M45 90l35 35M165 55l-35 35 35 35" fill="none" stroke="url(#accent)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M100 132 122 48" stroke="#d1fae5" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="105" cy="90" r="6" fill="#6ee7b7"/>
+  </g>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="105" y="145" fill="#f8fafc" font-size="62" font-weight="750" letter-spacing="-2">BUILD. LEARN.</text>
+    <text x="105" y="220" fill="url(#accent)" font-size="72" font-weight="800" letter-spacing="-2">ENGINEER.</text>
+    <rect x="108" y="260" width="74" height="4" rx="2" fill="#34d399"/>
+    <text x="202" y="269" fill="#cbd5e1" font-size="24" letter-spacing="1.2">CONFIDENCE ANTI</text>
+    <text x="108" y="320" fill="#94a3b8" font-size="21" letter-spacing=".7">Computer Science Student  ·  Aspiring Software Engineer</text>
+  </g>
+  <path d="M0 414H1500" stroke="#34d399" stroke-opacity=".75" stroke-width="6"/>
+</svg>
