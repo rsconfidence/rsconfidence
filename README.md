@@ -48,8 +48,8 @@ The project is under active development; features and architecture are evolving 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rsconfidence&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsconfidence&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=rsconfidence&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rsconfidence&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages" />
 
 </div>
 
