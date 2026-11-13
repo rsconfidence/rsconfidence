@@ -1,55 +1,76 @@
-<!-- Profile README for https://github.com/rsconfidence -->
+<!--
+  Confidence Anti | GitHub Profile
+  Keep this README accurate: describe work in progress as work in progress.
+-->
 
 <div align="center">
+  <img src="assets/profile-banner.svg" alt="Confidence Anti — Build. Learn. Engineer. | Computer Science Student and Aspiring Software Engineer" width="100%" />
 
-# Hey, I'm Confidence Anti 👋
+  <br />
 
-### Computer Science Student · Aspiring Software Engineer
+  <p>
+    <strong>Computer Science Student</strong> &nbsp;·&nbsp;
+    <strong>Aspiring Software Engineer</strong>
+  </p>
 
-I’m learning to design and build reliable software, with a growing interest in **software architecture, backend engineering, and scalable systems**.
+  <p>
+    Interested in software engineering, backend development, system design,
+    and building reliable software that solves real problems.
+  </p>
 
-[![GitHub followers](https://img.shields.io/github/followers/rsconfidence?style=for-the-badge&logo=github&label=Followers)](https://github.com/rsconfidence?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/rsconfidence?style=for-the-badge&logo=github&label=Total%20Stars)](https://github.com/rsconfidence?tab=repositories)
-
+  <a href="https://github.com/rsconfidence">
+    <img src="https://img.shields.io/badge/GitHub-rsconfidence-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+  <a href="https://github.com/rsconfidence?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-My%20Repositories-065f46?style=flat-square&logo=github&logoColor=white" alt="Explore repositories" />
+  </a>
 </div>
 
 ---
 
-## About me
+## About
 
-- 🎓 Computer Science student focused on becoming a well-rounded software engineer.
-- 🛠️ Building practical projects while strengthening my engineering fundamentals.
-- 🧠 Interested in system design, backend development, databases, and multi-tenant applications.
-- 🌱 Currently improving my TypeScript, Java, and software design skills.
-- 🤝 Open to learning from other developers and collaborating on meaningful projects.
+I'm a Computer Science student working towards becoming a well-rounded software engineer. I enjoy understanding how software systems fit together, learning sound engineering practices, and turning ideas into working projects.
 
-## Current focus
+- Building practical projects while strengthening my engineering fundamentals.
+- Developing my skills in TypeScript, Java, backend development, and databases.
+- Learning more about software architecture, maintainability, and scalable systems.
+- Interested in collaborating, sharing knowledge, and learning from other developers.
 
-**SANKOVIA StudyMate** — an academic learning platform I’m building as a long-term software engineering project. I’m working through its foundations step by step, including authentication, institution-aware access, academic data modelling, and document-processing infrastructure.
+## Featured work
 
-The project is under active development; features and architecture are evolving as I learn and build.
+### SANKOVIA StudyMate
+*Private · In active development*
 
-## Technologies I work with
+An academic learning platform being developed with a focus on institution-aware learning experiences and responsible access to academic information.
+
+Current engineering work includes foundations for authentication, institution membership and authorization, academic data modelling, and document-processing workflows. The platform is still being built; this is not a claim that the complete product or all planned AI features are finished.
+
+## Technologies & tools
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,java,react,nextjs,nodejs,tailwind,postgres,prisma,git,github,linux,vscode&theme=dark" alt="TypeScript, Java, React, Next.js, Node.js, Tailwind CSS, PostgreSQL, Prisma, Git, GitHub, Linux and VS Code" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=ts,java,react,nextjs,nodejs,tailwind,postgres,prisma,git,github,linux,vscode&theme=dark" alt="TypeScript, Java, React, Next.js, Node.js, Tailwind CSS, PostgreSQL, Prisma, Git, GitHub, Linux and Visual Studio Code" />
 </p>
 
-## GitHub activity
+## Current learning focus
+
+- **Software engineering:** clean code, modular design, testing, and maintainability.
+- **Backend development:** APIs, authentication, authorization, and data modelling.
+- **Databases:** relational design, PostgreSQL, and Prisma.
+- **Systems thinking:** architecture, multi-tenant applications, and scalable design.
+
+## Find me on GitHub
 
 <div align="center">
-
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=rsconfidence&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rsconfidence&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages" />
-
+  <a href="https://github.com/rsconfidence?tab=repositories">Repositories</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/rsconfidence?tab=projects">Projects</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/rsconfidence?tab=overview">Activity</a>
 </div>
 
 ---
 
 <div align="center">
-
-**Building with curiosity. Growing through engineering.**
-
+  <sub>Building today. Engineering tomorrow.</sub>
 </div>
