@@ -64,9 +64,7 @@ Current engineering work includes foundations for authentication, institution me
 <div align="center">
   <a href="https://github.com/rsconfidence?tab=repositories">Repositories</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/rsconfidence?tab=projects">Projects</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/rsconfidence?tab=overview">Activity</a>
+  <a href="https://github.com/rsconfidence">Profile & contribution activity</a>
 </div>
 
 ---
