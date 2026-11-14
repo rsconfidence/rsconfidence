@@ -52,6 +52,25 @@ Current engineering work includes foundations for authentication, institution me
   <img src="https://skillicons.dev/icons?i=ts,java,react,nextjs,nodejs,tailwind,postgres,prisma,git,github,linux,vscode&theme=dark" alt="TypeScript, Java, React, Next.js, Node.js, Tailwind CSS, PostgreSQL, Prisma, Git, GitHub, Linux and Visual Studio Code" />
 </p>
 
+## GitHub activity
+
+<div align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=rsconfidence&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
+    alt="GitHub statistics for rsconfidence"
+    width="49%"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=rsconfidence&layout=compact&hide_border=true&theme=github_dark&langs_count=8"
+    alt="Most used programming languages in public repositories"
+    width="49%"
+  />
+</div>
+
+<p align="center">
+  <sub>Statistics are generated from GitHub activity and public repository code. External card availability may vary.</sub>
+</p>
+
 ## Current learning focus
 
 - **Software engineering:** clean code, modular design, testing, and maintainability.
